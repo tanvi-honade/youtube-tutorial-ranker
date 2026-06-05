@@ -1,0 +1,11 @@
+Live App URL: https://bnhbtgwabysltjpkegp3vu.streamlit.app/
+
+How to use:
+1. Paste transcript in format: Speaker: Text
+2. Click "Analyze"
+3. View sentiment scores and visualizations
+
+Example:
+Tanvi: I'm excited!
+Manager: Tell me more.
+Tanvi: I built an AI app.
